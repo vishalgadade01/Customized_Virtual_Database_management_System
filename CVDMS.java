@@ -28,13 +28,13 @@ class Employee
     }
 }
 
-class MarvellousDBMS
+class DBMS
 {
     public LinkedList <Employee> lobj;
 
-    public MarvellousDBMS()
+    public DBMS()
     {
-        System.out.println("Marvellous DBMS started succesfully...");
+        System.out.println("DBMS started succesfully...");
         lobj = new LinkedList<Employee>();
     }
 
@@ -220,11 +220,11 @@ class CVDMS
 {
     public static void main(String Arg[])
     {
-        System.out.println("-------- Marvellous Database Management System --------");
+        System.out.println("-------- Database Management System --------");
 
         Scanner sobj = new Scanner(System.in);
 
-        MarvellousDBMS mobj = new MarvellousDBMS();
+        DBMS mobj = new DBMS();
 
         int iOption = 0;
         int Salary;
@@ -377,13 +377,13 @@ class CVDMS
                     break;
 
                 case 13 : 
-                    System.out.println("This project developed by Marvellous Infosystems");
+                    System.out.println("This project developed by Vishal Gadade");
                     System.out.println("All copyrights reserved..");
 
                     break;
                     
                 case 14 : 
-                    System.out.println("Thank you for using the Marvellous DBMS");
+                    System.out.println("Thank you for using the  DBMS");
                     mobj = null;
 
                     System.gc();
