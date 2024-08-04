@@ -22,7 +22,7 @@ The `Employee` class represents an employee with the following attributes:
 - `EAddress`: Employee address.
 - `ESalary`: Employee salary.
 
-### MarvellousDBMS
+### DBMS
 
 The `MarvellousDBMS` class is responsible for managing employee records and supports various operations including:
 - Inserting new records.
