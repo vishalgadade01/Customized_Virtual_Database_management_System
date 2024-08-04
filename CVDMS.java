@@ -216,7 +216,7 @@ class MarvellousDBMS
     }
 }
 
-class program661
+class CVDMS
 {
     public static void main(String Arg[])
     {
