@@ -1,4 +1,4 @@
-# Marvellous Database Management System
+# Customized Virtual Database Management System
 
 This project is a simple Virtual Database Management System (DBMS) implemented in Java for managing employee records. 
 It supports various operations like inserting, deleting, and querying employee  data,  along  with  aggregate 
