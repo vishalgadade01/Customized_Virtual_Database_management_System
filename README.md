@@ -24,7 +24,7 @@ The `Employee` class represents an employee with the following attributes:
 
 ### DBMS
 
-The `MarvellousDBMS` class is responsible for managing employee records and supports various operations including:
+The `DBMS` class is responsible for managing employee records and supports various operations including:
 - Inserting new records.
 - Displaying all records.
 - Displaying specific records by ID or name.
